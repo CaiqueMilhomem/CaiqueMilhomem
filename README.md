@@ -1,3 +1,3 @@
 ### Hello, my name is Caique.
-I´m a nem programming student looking for a job.
+I´m a new programming student looking for a job in this field.
 
