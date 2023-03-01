@@ -1,3 +1,3 @@
-### Hello, my name is Caique.
-I´m a new programming student looking for a job in this field.
+### Olá, meu nome é Caique.
+Eu sou um estudante de programação procurando por uma oportunidade na área. 
 
