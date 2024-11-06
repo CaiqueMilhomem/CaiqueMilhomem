@@ -1,3 +1,3 @@
-### Olá, meu nome é Caique.
-Eu sou um estudante de programação procurando por uma oportunidade na área. 
+### Olá, meu nome é Caique Milhomem.
+Eu sou um estudante de Tecnologia procurando por uma oportunidade na área de dados. 
 
